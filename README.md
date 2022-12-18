@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @choral-riff
+- 👋 Hi, I’m Durgesh Jha, @choral-riff
 - 👀 I’m interested in Natural Language Processing, and Mathematics. 
 - 🌱 I’m currently learning Data Structures and Algorithms, Machine Learning, and ARM Assembly Programming
 - 💞️ I’m looking to collaborate on a potential natural language processing project.
