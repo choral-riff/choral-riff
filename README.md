@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Durgesh Jha, @choral-riff
-- 👀 I’m interested in Software Engineering and Physics. 
+- 👀 I’m interested in programming and Physics. 
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA) and Full Stack development. 
 - 💞️ I’m looking to collaborate on a potential fullstack projects. 
 - 📫 How to reach me ... find me on linkedin! 
